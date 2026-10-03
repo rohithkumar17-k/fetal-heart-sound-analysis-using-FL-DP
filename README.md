@@ -4,12 +4,12 @@ A research/learning project exploring heart sound classification with a deep-lea
 
 ## Project overview
 
-The downloadable project package contains two notebooks:
+The repository contains two notebooks:
 
 1. **`01_HeartSound_Project.ipynb`** — the initial heart-sound classification workflow.
 2. **`02_HeartSound_FL_DP.ipynb`** — the federated-learning and differential-privacy workflow.
 
-Download `Heart-Sound-FL-DP-GitHub-Ready.zip` from this repository and extract it to get the complete folder structure. The notebooks are the primary source of truth for the implemented methods. Before reporting performance or privacy claims, rerun the notebooks and record the resulting metrics and privacy accountant output.
+The notebooks are available under `notebooks/`, with dependencies in `requirements.txt` and a results guidance file under `results/`. The notebooks are the primary source of truth for the implemented methods. Before reporting performance or privacy claims, rerun the notebooks and record the resulting metrics and privacy accountant output.
 
 ## Workflow at a glance
 
