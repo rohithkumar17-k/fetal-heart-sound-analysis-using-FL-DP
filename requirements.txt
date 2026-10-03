@@ -1,0 +1,17 @@
+# Core notebook environment
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+librosa
+soundfile
+scipy
+torch
+torchaudio
+torchvision
+tqdm
+jupyter
+ipykernel
+# Differential privacy / federated-learning notebook
+opacus
